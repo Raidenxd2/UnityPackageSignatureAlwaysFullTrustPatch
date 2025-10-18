@@ -1,0 +1,10 @@
+{
+  "name": "com.raiden.signaturealwaysfulltrustpatch",
+  "displayName": "Signature Always Full Trust Patch",
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "description": "Patches UnityEditor.PackageManager.UI.Internal.UpmPackageVersion.trustAndSignature to always return TrustAndSignature.FullTrustUnitySignature\n\nRequires Harmony to be in your project",
+  "author": {
+    "name": "Raidenxd2"
+  }
+}
